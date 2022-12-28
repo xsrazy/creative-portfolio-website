@@ -1,7 +1,7 @@
 
 ======================================================
 
-<h1 style="align: center;">[DEMO](https://xsrazy.my.id) </h1>
+<h1 style="align: center;"><a href="https://xsrazy.my.id" target="_blank">DEMO</a></h1>
 <h3>Xsrazy is a modern and clean personal vCard website template. It has many cool features found
 in premium templates. It has timeline items, stats section, skillbars, working ajax form,
 frontend form validation, a portfolio section to showcase your works and many more. It looks 
